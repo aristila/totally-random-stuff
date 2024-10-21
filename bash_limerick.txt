@@ -1,0 +1,5 @@
+There once was a coder named Mash,
+Who set out to master some Bash.
+With "echo" and "grep,"
+He made quite a rep,
+Now scripts he can write in a flash!
